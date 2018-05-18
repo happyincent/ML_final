@@ -49,7 +49,7 @@ set LABEL_PATH to the path you save the label.txt.
 
 ## Training Method & Result
 
-* Check & Label 1500 digital number images in 375 vcodes by human eye
+* Check & Label 1500 digital number images in 375 vcodes by the human eye
 
 * Pre-train a NN model by the data (1500)
 
